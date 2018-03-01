@@ -1,6 +1,9 @@
+#GamingStation OS 16.04.3 LTS
+
 Turn any old computer into a powerful retro gaming station.
 
 Screenshots: https://imgur.com/gallery/PP1o3
+
 Video: https://youtu.be/bOemjGi2H2I
 
 To turn on auto login run:
@@ -21,7 +24,8 @@ This will also backup the current cores before writing over them. This way you c
 
 Some systems need BIOS files before they will work. 
 
-Default BIOS folder for RetroArch: ~/Games/bios 
+Default BIOS folder for RetroArch: ~/Games/bios
+
 Default BIOS folder for PS2 (also have to select the BIOS in the PCSX2 app): ~/.config/PCSX2/bios
 
 Bugs:
