@@ -1,4 +1,4 @@
-#GamingStation OS 16.04.3 LTS
+# GamingStation OS 16.04.3 LTS
 
 Turn any old computer into a powerful retro gaming station.
 
